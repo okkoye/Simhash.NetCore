@@ -1,0 +1,1 @@
+# Simhash.NetCore
